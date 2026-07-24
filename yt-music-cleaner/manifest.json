@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube - Xóa Playlist Radio",
+  "version": "1.0",
+  "description": "Tự động xóa &list= khỏi URL YouTube để tránh bị kẹt trong playlist radio khi nghe nhạc.",
+  "permissions": ["storage", "declarativeNetRequest"],
+  "host_permissions": ["*://*.youtube.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
