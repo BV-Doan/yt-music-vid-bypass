@@ -1,53 +1,16 @@
 # yt-music-vid-bypass
-Bypass youtube playlist after click on music video.
-# 🚀 Tên Dự Án (Project Title)
+A extention bypass youtube playlist after click on music video.
 
-> Một câu mô tả ngắn gọn, súc tích và thu hút về dự án của bạn ở đây.
-
-![Demo](link-anh-demo-hoac-gif-o-day.png)
+> Wanna discover new music but youtube alaways direct you in a playlist which contain a lot of songs you've already heard.
 
 ---
 
-## 📌 Tính Năng Nổi Bật
+## ⚙️ **How To Use**
 
-- ⚡ **Nhanh & Nhẹ:** Tối ưu hóa hiệu năng tốt.
-- 🎨 **Giao diện hiện đại:** Hỗ trợ Dark Mode / Light Mode.
-- 🔒 **Bảo mật:** Sử dụng JWT cho xác thực người dùng.
-- 📱 **Responsive:** Hiển thị tốt trên cả mobile và desktop.
+1. **Download**:
+  - Click **Code** → **Download ZIP**.
+  - Extract the downloaded ZIP file to your desired location.
 
----
-
-## 🛠️ Công Nghệ Sử Dụng
-
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Docker, Git
-
----
-
-## ⚙️ Hướng Dẫn Cài Đặt
-
-Thực hiện theo các bước sau để chạy dự án trên máy cục bộ (local):
-
-### 1. Yêu cầu hệ thống
-- Node.js >= v18.x
-- npm hoặc yarn
-
-### 2. Các bước thực hiện
-
-```bash
-# Clone repository này về máy
-git clone [https://github.com/ten-user/ten-repo.git](https://github.com/ten-user/ten-repo.git)
-
-# Di chuyển vào thư mục dự án
-cd ten-repo
-
-# Cài đặt các thư viện cần thiết
-npm install
-
-# Tạo file .env và cấu hình (nếu có)
-cp .env.example .env
-
-# Chạy ứng dụng ở chế độ phát triển
-npm run dev
+2. **Install**:
+  - In your browser, open **Extensions** tab and turn on **developer mode**.
+  - Click on **Load unpacked** and open extension folder you have extracted.
