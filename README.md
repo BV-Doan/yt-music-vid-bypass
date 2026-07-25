@@ -1,7 +1,7 @@
 # yt-music-vid-bypass
 A extention bypass youtube playlist after click on music video.
 
-> Wanna discover new music but youtube alaways direct you in a playlist which contain a lot of songs you've already heard.
+> Wanna discover new music but youtube alaways redirect you in a playlist which contain a lot of songs you've already heard.
 
 ---
 
